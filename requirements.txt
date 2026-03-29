@@ -1,0 +1,10 @@
+langchain
+langgraph
+groq
+python-dotenv
+faiss-cpu
+tqdm
+pydantic
+typing-extensions
+dotenv
+streamlit
