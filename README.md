@@ -1,5 +1,3 @@
-Here’s a clean, end‑to‑end README in plain text format, without the “Known Issues” or “Testing Scenarios” sections:
-
 ---
 
 # Blog_Agent
@@ -115,5 +113,3 @@ streamlit run app/ui.py
 MIT License © 2026 Abas527
 
 ---
-
-This version is streamlined and focused on guiding someone through setup, usage, and understanding the workflow without diving into bug notes or test cases. Would you like me to also prepare a **visual architecture diagram description** in text form so readers can picture how the agents connect?
